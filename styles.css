@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    font-family: "Audiowide", sans-serif;
+    background-color: #18122B;
+}
+.header{
+    color: white;
+    background-color: black;
+    width: auto;
+    height: 50px;
+    margin: 0;
+}
+.top-container{
+    height: 500px;
+    width:  auto;
+    background-color: black;
+    position: relative;
+}
+.first-image{
+    height: 500px;
+    width: 450px;
+    position: relative;
+}
+.second-image{
+    height: 500px;
+    width: 450px;
+    position: relative;
+}
+.third-image{
+    height: 500px;
+    width: 440px;
+    position: relative;
+}
+.first-heading{
+    position: absolute;
+    bottom: 3px;
+    left: 5px;
+    font-size: 100px;
+    color: white;
+}
+.middle-container{
+    position: relative;
+}
+.forth-image{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 0px;
+    left: 2px;
+}
+.third-heading{
+    display: inline-block;
+    position: absolute;
+    top: 5px;
+    left: 110px;
+    font-size: 30px;
+    color: white;
+}
+.bottom-container{
+    color: white;
+}
+.bottom-first-h2{
+    display: inline-block;
+}
+.bottom-second-h2{
+    display: inline-block;
+    width: 200px;
+}
+.second-audio{
+    display: inline-block;
+}
+.fifth-image{
+    width: 100px;
+    height: 100px;
+}
+.sixth-image{
+    height: 300px;
+    width: auto;
+}
+.footer{
+    color: white;
+    background-color: black;
+    width: auto;
+    height: 65px;
+    margin: 0;
+}
